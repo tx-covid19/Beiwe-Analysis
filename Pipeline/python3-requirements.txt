@@ -13,3 +13,6 @@ pandas==0.22.0
 # up-to-date as of 2019-02-28
 # Do NOT delete this requirement, or the code will not run, neither locally nor remotely.
 requests==2.21.0
+
+# added boxsdk for copy-to-box functionality, 
+boxsdk
